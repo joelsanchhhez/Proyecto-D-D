@@ -1,4 +1,4 @@
-package com.proyectodnd;
+package salesianos;
 
 public class Mago extends Personaje {
 

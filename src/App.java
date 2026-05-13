@@ -1,4 +1,5 @@
-package com.proyectodnd;
+import salesianos.Guerrero;
+import salesianos.Mago;
 
 public class App {
 
