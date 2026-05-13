@@ -1,4 +1,4 @@
-package java.com.proyectodnd;
+package com.proyectodnd;
 
 public class Mago extends Personaje {
 
